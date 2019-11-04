@@ -1,0 +1,118 @@
+a {
+    text-decoration: none;
+}
+.tll {
+position: absolute;
+top: 16px;
+left: 8px;
+}
+.tll a {
+display: inline-block;
+padding-left: 15px;
+color:#000;
+opacity: 0.75;
+font-family: 'Open Sans', sans-serif;
+font-size: 13px;
+}
+.trl {
+    position: absolute;
+    top: 16px;
+    right: 30px;
+}
+.trl a {
+    display: inline-block;
+    padding-left: 15px;
+    color:#000;
+    opacity: 0.75;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+}
+#apps {
+    height: 25px;
+    width: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: -6px;
+}
+    .button {
+        display: block;
+        width: 56px;
+        height:12px;
+        background:#0b57db;
+        padding: 10px;
+        text-align: center;
+        border-radius: 0px;
+        color: white;
+        font-weight: bold;
+    }
+    #logo {
+        height: 92px;
+        width: 272px;
+        padding-top: 209px;
+    }
+    #inpcnt { 
+        position:relative; 
+        padding:0; 
+        margin:0;
+    }
+    #srch {
+        width:582px;
+        padding: 13px;
+        border: 1px solid #d5cfcf;
+        border-radius: 24px;
+    }
+    #glass { 
+        position: absolute;
+        bottom: 80px;
+        left: 382px;
+        width: 12px;
+        height: 12px;
+        opacity: 0.5;
+    }
+    .btns {
+        margin-top: 30px;
+    }
+    .btns button {
+        color: rgb(68, 65, 65);
+        background-color:#f2f2f2;
+        border: none;
+        height: 35px;
+        border-radius: 5px;
+        width: 140px;
+    }
+    .ftr {
+        position: absolute;
+        left: 0px;
+        right: 0px;
+        bottom: 0px;
+        width: 100%;
+        background-color: #f2f2f2;;
+        height: 120px;
+    }
+    .ftrl a {
+        display: inline-block;
+        color:#000;
+        opacity: 0.75;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 13px;
+        padding-left: 10px;
+        float: left;
+        margin-top: 40px;
+    }
+    .ftrr a {
+        display: inline-block;
+        color:#000;
+        opacity: 0.75;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 13px;
+        padding-right: 10px;
+        float: right;
+        margin-top: 40px;
+    }
+    p {
+        color:#000;
+        opacity: 0.75;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px; 
+        padding-left: 15px;
+    }

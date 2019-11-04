@@ -1,0 +1,1 @@
+Project to deconstruct an existing project and rebuild. Intended to build proficiency in use of developer tools.
